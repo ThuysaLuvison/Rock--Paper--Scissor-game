@@ -74,4 +74,4 @@ Feito com 💜 e muito café por Thuysa Monique Luvison da Rosa
 
 Se você curtiu, ⭐️ deixe uma estrela no repositório.
 
-📌 **[Rock Paper Scissor]()** 📌
+📌 **[Rock Paper Scissor](https://rock-paper-scissor-game-five-psi.vercel.app/)** 📌
